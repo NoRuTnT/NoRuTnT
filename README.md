@@ -5,7 +5,8 @@
 
 2022.09 ~ 2023.06 | industrial software capstone design <br>
 2023.07 ~     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;    | SSAFY 10th
-<br/> <br/> <br/> 
+<br/> <br/><br/> 
+
  🔭 tech<br/> <br/> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
