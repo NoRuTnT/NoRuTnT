@@ -12,9 +12,11 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/rstudio-75AADB?style=flat&logo=rstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/oracleSQL-F80000?style=flat&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
 
 <br/><br/><br/>
 🌱 learning <br/> <br/> 
@@ -22,9 +24,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white" />
