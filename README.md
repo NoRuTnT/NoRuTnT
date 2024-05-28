@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Moon%20Jun%20Hyeong&fontColor=F5F0FF&fontSize=50)
 <br/> <br/> <br/> <br/> 
 
-### 🎓 EXPERIENCE <br>
+### 🎓 EXPERIENCE
+<br>
 
 2023.07 ~     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;    | SSAFY 10th  
 2022.09 ~ 2023.06 | industrial software capstone design 
@@ -15,7 +16,8 @@
 - 정보처리기사
 <br/> 
 
-### 🔭 tech<br/> <br/> 
+### 🔭 tech
+<br/> <br/> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -30,7 +32,8 @@
 <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
 
 <br/><br/><br/>
-### 🌱 learning <br/> <br/> 
+### 🌱 learning
+<br/>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
 
 <!--
