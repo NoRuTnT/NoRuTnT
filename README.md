@@ -4,7 +4,7 @@
 ### 🎓 EXPERIENCE
 <br>
 
-2023.07 ~     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;    | SSAFY 10th  
+2023.07 ~ 2024.06 | SSAFY 10th  
 2022.09 ~ 2023.06 | industrial software capstone design 
 
 <br/> <br/><br/> 
