@@ -68,11 +68,13 @@ B2B 클라우드 기술지원 업무에서 고객의 VM, Network, Kubernetes, DB
 
 ## 🏆 Awards / Certificates
 - NAVER Cloud Platform Certified Associate
+- NAVER Cloud Platform Certified Professional Security
 - 리눅스마스터 2급
+- 네트워크관리사 2급
 - 정보처리기사
 - SQLD
-- ADsP 
-- 삼성청년sw아카데미 공통프로젝트 우수상
+- ADsP
+- 삼성청년sw아카데미 프로젝트 우수상
 <br/> 
 
 
